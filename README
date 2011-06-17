@@ -3,3 +3,5 @@
 Andreas: Install this gem by cloning down the source, and then running 
 gem build GEMNAME.gemspec
 gem install gemname-version.gem
+
+Contacts::Gmail.new(login, password).contacts
